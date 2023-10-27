@@ -95,8 +95,9 @@ int main(void)
 			msg_em_desenvolvimento();
 		// pesquisar_cliente();
 		else if (resp == '7')
-			msg_em_desenvolvimento();
+			// msg_em_desenvolvimento();
 		// alugar_filme();
+		olaMundo();
 		else if (resp == '8')
 			msg_em_desenvolvimento();
 		// entregar_filme();
