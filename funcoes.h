@@ -20,7 +20,7 @@ void msg_em_desenvolvimento()
   int sleep_seconds = 1;
 
   printf("\n============================");
-  printf("\nOp��o em desenvolvimento...\n");
+  printf("\nOpção em desenvolvimento...\n");
   printf("============================");
   sleep(sleep_seconds);
 }
