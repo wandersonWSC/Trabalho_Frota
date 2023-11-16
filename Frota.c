@@ -92,7 +92,7 @@ int main(void)
 			msg_em_desenvolvimento();
 		// pesquisar_filme();
 		else if (resp == '6')
-			msg_em_desenvolvimento();
+			 gerenciarContas();
 		// pesquisar_cliente();
 		else if (resp == '7')
 			// msg_em_desenvolvimento();
